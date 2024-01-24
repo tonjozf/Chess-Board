@@ -1,0 +1,16 @@
+#mainChessBoard
+{
+    width:600px;
+    height:600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 50px;
+}
+
+div
+{
+ width:75px;
+ height:75px;
+ float:center;
+}
